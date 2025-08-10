@@ -20,9 +20,9 @@ Incremental delivery with reviewable pull requests and meaningful tests
 
 Core Skills
 
-Frontend: React · Next.js · Angular · Tailwind CSS · Vite
+Frontend: React · Next.js · Angular · Tailwind CSS 
 
-Backend: Laravel (PHP) · Livewire · Spring Boot (Java)
+Backend: Spring Boot (Java) . Laravel (PHP)
 
 Databases: PostgreSQL (comfortable) · MySQL (comfortable) · MongoDB (familiar)
 
