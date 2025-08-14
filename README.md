@@ -3,7 +3,7 @@
 I'm **Sediqullah Ekhtyar (s.ekhtyar)**, a production-focused full-stack developer specializing in building reliable frontends, robust APIs, and performant data systems.
 
 <p align="left">
-<a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="YOUR_LINKEDIN_USERNAME" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/sediqullah-ekhtyar-b6738b239" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="YOUR_LINKEDIN_USERNAME" height="30" width="40" /></a>
 <a href="https://twitter.com/SediqullahEkht1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="SediqullahEkht1" height="30" width="40" /></a>
 </p>
 
